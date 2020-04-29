@@ -1,0 +1,54 @@
+
+Rusted Butcher Cleaver
+They'll need a tetanus shot after this one.
+MaxHealth:0
+Attack:2
+Defense:0
+Critical:3
+Dodge:0
+Type:W
+
+Bayonet
+It's the whole gun, but you forgot to buy ammo.
+MaxHealth:0
+Attack:4
+Defense:0
+Critical:2
+Dodge:0
+Type:W
+
+Balaclava
+Get my gun, we 'bout to rob a Wells Fargo!
+MaxHealth:0
+Attack:2
+Defense:0
+Critical:0
+Dodge:2
+Type:H
+
+Fish Bowl
+Doesn't smell so good.
+MaxHealth:20
+Attack:0
+Defense:4
+Critical:0
+Dodge:0
+Type:H
+
+COSTCO Parka
+COSTCO's mission is to continuously provide our members with the lowest prices.
+MaxHealth:40
+Attack:0
+Defense:2
+Critical:0
+Dodge:0
+Type:A
+
+Leather Jacket
+It's in white. How the hell are you supposed to keep this clean?
+MaxHealth:10
+Attack:1
+Defense:2
+Critical:1
+Dodge:0
+Type:A

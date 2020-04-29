@@ -1,0 +1,54 @@
+
+Broken Stick
+It's not even really that sturdy... 
+MaxHealth:0
+Attack:2
+Defense:0
+Critical:1
+Dodge:0
+Type:W
+
+Lightsaber
+Don't get your hopes up... it's made of plastic, and not the hard kind.
+MaxHealth:0
+Attack:1
+Defense:0
+Critical:2
+Dodge:0
+Type:W
+
+Cardboard Helmet
+You can see the tear marks from where Salbert ripped it off his bodega.
+MaxHealth:20
+Attack:0
+Defense:0
+Critical:0
+Dodge:0
+Type:H
+
+Trucker Hat
+Its a net hat. Its got air-holes in the back to keep a cross breeze going and everything!
+MaxHealth:10
+Attack:0
+Defense:1
+Critical:0
+Dodge:0
+Type:H
+
+Cardboard Armor
+You are pretty sure this is just one of Salbert's box flaps folded up.
+MaxHealth:30
+Attack:0
+Defense:1
+Critical:0
+Dodge:0
+Type:A
+
+Back Brace
+Gotta keep your core aligned.
+MaxHealth:10
+Attack:0
+Defense:0
+Critical:0
+Dodge:2
+Type:A

@@ -1,0 +1,54 @@
+
+Chingus's Mace
+You ask: is it pepper spray or a blunt weapon? Try using some content clues...
+MaxHealth:0
+Attack:9
+Defense:0
+Critical:4
+Dodge:0
+Type:W
+
+Bonecrusher
+A railroad spike you were chased with in your childhood.
+MaxHealth:0
+Attack:4
+Defense:0
+Critical:7
+Dodge:2
+Type:W
+
+M50A1 Gas Mask
+The filter's still good, but there's a crack in the glass.
+MaxHealth:50
+Attack:2
+Defense:5
+Critical:1
+Dodge:0
+Type:H
+
+Warlord Cap
+It's green and it the same cap that every African warlord wears in the movies.
+MaxHealth:20
+Attack:5
+Defense:2
+Critical:4
+Dodge:0
+Type:H
+
+Exoskeleton
+Salbert told you he stole this from the government laboratory his mom works at.
+MaxHealth:20
+Attack:2
+Defense:1
+Critical:0
+Dodge:5
+Type:A
+
+Kevlar Bodysuit
+What if Milwaukee Joe has a gun? Now you're prepared!
+MaxHealth:60
+Attack:1
+Defense:8
+Critical:1
+Dodge:0
+Type:A

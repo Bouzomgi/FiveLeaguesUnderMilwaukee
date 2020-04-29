@@ -1,0 +1,24 @@
+
+Justice attack
+Mike clubs you with "Constitutional Law: Federalism and the Supreme Court". You're pretty sure that was battery.
+Move Power:20
+Stat Raise:X
+Times:2
+
+Mechanical slam
+Mike grabs you with his meaty hands and throws you to the ground. He makes a 'kachow!' Sound effect as if he hit you with his car.
+Move Power:30
+Stat Raise:X
+Times:2
+
+Study break
+Mike pauses the fight to study, boring you slightly to death. His defense rises.
+Move Power:15
+Stat Raise:D
+Times:3
+
+Book him
+Mike takes you to court: sweeping your feet from under you and reading you your Miranda Rights. 
+Move Power:40
+Stat Raise:X
+Times: 1

@@ -1,0 +1,54 @@
+
+Sharpened Shovel
+Take them out and dig their grave: it's two in one!
+MaxHealth:0
+Attack:6
+Defense:0
+Critical:2
+Dodge:0
+Type:W
+
+Iced Pick
+Its handle is encrusted with diamonds.
+MaxHealth:0
+Attack:3
+Defense:0
+Critical:4
+Dodge:0
+Type:W
+
+Dirtbike Helmet
+You hear your mother cry out, "Don't you know how dangerous those things are!?!"
+MaxHealth:30
+Attack:1
+Defense:2
+Critical:0
+Dodge:2
+Type:H
+
+Bucket Hat
+It's a bucket. It's a hat. It's a bucket hat!
+MaxHealth:20
+Attack:2
+Defense:4
+Critical:0
+Dodge:0
+Type:H
+
+Chainmail
+Too tight to wear with a shirt. Your love handles squeeze through the holes.
+MaxHealth:60
+Attack:1
+Defense:4
+Critical:0
+Dodge:0
+Type:A
+
+Gi
+You've never taken karate, but it comes with a black belt.
+MaxHealth:20
+Attack:2
+Defense:1
+Critical:2
+Dodge:2
+Type:A

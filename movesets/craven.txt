@@ -1,0 +1,24 @@
+
+Scimitar swipe
+The Craven raises her 'rolling pin' and swings it at you.
+Move Power:15
+Stat Raise:X
+Times:2
+
+Dinnertime!
+The Craven tightens her apron and screams "DINNERTIME!". She grabs you by the chin and force-feeds you some rotten mystery meat.
+Move Power:25
+Stat Raise:X
+Times:2
+
+Nonsense rant
+The Craven raves about the Freemasonry conspiracy, giving you a headache. Her defense rises.
+Move Power:10
+Stat Raise:D
+Times:3
+
+Show-and-Tell
+The Craven breathes deeply, then explosively hurls aspirations about Timothy. Her words remind you of his death.
+Move Power:35
+Stat Raise:X
+Times: 1

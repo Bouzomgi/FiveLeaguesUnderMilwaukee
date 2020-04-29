@@ -1,0 +1,24 @@
+
+Serial stab
+Milwaukee Joe pulls out his signature metal shank and attacks you with it, probably infecting you some sort of blood-borne disease.
+Move Power:35
+Stat Raise:X
+Times:2
+
+Wisconsin terror
+Milwaukee Joe crouches and rolls into you, biting your calf. It is painful beyond imagination.
+Move Power:40
+Stat Raise:X
+Times:2
+
+The feeding
+Milwaukee Joe pulls out a human leg and feeds off it. He then swings its exposed bone at your chest. His attack rises.
+Move Power:25
+Stat Raise:A
+Times:3
+
+Fatality
+Milwaukee Joe targets you as his next victim, confessing his murder of your relatives before mauling you with a series of strikes from his knife.
+Move Power:50
+Stat Raise:X
+Times: 1
