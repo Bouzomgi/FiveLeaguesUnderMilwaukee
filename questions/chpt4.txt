@@ -1,80 +1,80 @@
 
 1
-Who says, "Blood runs..."?
-Warwick
-Talon
-Urgot
-Vladimir
-Difficulty:4
-
-2
-Who is "The Sand Butcher"?
-Renekton
-Rek Sai
-Azir
-Nasus
-Difficulty:2
-
-3
-How much RP does 25$ buy?
-3500
-1250
-1700
-1650
-Difficulty:7
-
-4
-Which champion was cancelled before release?
-Priscilla
-Gooper
-Amen
-Hamme
-Difficulty:10
-
-5
-Who does Jinx love?
-Ziggs
-Rakan
-Zilean
-Ekko
-Difficulty:9
-
-6
-Who says, "your will, my hands"?
-Lee Sin
-Master Yi
-Xin Zhao
-Yasuo
+The equation describing performance gains in comparison to number of cores is formally titled...
+Amdahl's Law
+Moore's Law
+Gustafson's Law
+Shannon Entropy
 Difficulty:1
 
-7
-Who is "the Secret Weapon"?
-Zac
-Jhin
-Urgot
-Blitzcrank
-Difficulty:3
+2
+Which is not a primary thread library?
+Gthreads
+POSIX Pthreads
+Windows threads
+Java threads
+Difficulty:7
 
-8
-How much does pickaxe cost?
-875
-900
-950
-800
+3
+Which is not a multithreading model (threads-to-kernel threads)?
+One-to-Many
+Many-to-One
+One-to-One
+Many-to-Many
+Difficulty:2
+
+4
+Thread pools generate threads, of which immediately...
+await work
+assist active threads in computations
+terminate if unneeded
+link all available kernel threads
+Difficulty:9
+
+5
+OpenMP is an API for all but which programming language?
+COBOL
+C
+C++
+FORTRAN
+Difficulty:10
+
+6
+Serial dispatch queries are emptied by block in the order of...
+FIFO
+LIFO
+Largest size
+Smallest size
+Difficulty:4
+
+7
+Default signal handlers ... be overwritten by the user.
+can sometimes
+can
+cannot
+can, if the process is started by the kernel
 Difficulty:6
 
-9
-Which Lee Sin skin costs 520 RP?
-Traditional Lee Sin
-Muay Thai Lee Sin
-Dragon Fist Lee Sin
-Acolyte Lee Sin
+8
+Thread-local storage grants data...
+unique to the thread
+shared with its parent thread
+shared with its sibling threads
+visible only during single function invocation
 Difficulty:5
 
-10
-Which Worlds 2019 team was eliminated by iG?
-GRF
-RNG
-FNC
-SPY
+9
+Linux threads are internally referred to by which alternative name?
+Tasks
+Clones
+Jobs
+Stints
 Difficulty:8
+
+10
+To show running processes threads, one should use the Linux bash command…
+$ps
+$cat
+$uname
+$df
+Difficulty:3

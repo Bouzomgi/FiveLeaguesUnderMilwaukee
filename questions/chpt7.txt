@@ -1,80 +1,80 @@
 
 1
-Which of these is not an exclusive item?
-Guardian's Hammer
-The Hex Core mk-2
-The Black Spear
-Death's Daughter
-Difficulty:3
+Address binding of instructions and data to memory addresses is done in all but which stage?
+I/O time
+Compile time
+Load time
+Execution time
+Difficulty:5
 
 2
-Where did Zoe get her key on her belt?
-She stole it from Fiddlesticks
-Her mother gave it to her at a young age
-The Aspect gave it to her
-She found it in Mount Targon
-Difficulty:6
-
-3
-Who is Warwick hunting in the lore?
-Soraka
-Urgot
-Lux
-Swain
-Difficulty:10
-
-4
-What is Nocturne's Ultimate called?
-Paranoia
-Nightmare
-Living Darkness
-Compass of Darkness
-Difficulty:4
-
-5
-The Greater Mark of Fortitude used to grant...
-Health
-Armor
-Health per second
-Magic Resist
-Difficulty:9
-
-6
-Who can stay in stealth the longest?
-Teemo
-Twitch
-Rengar
-Talon
-Difficulty:2
-
-7
-How long is Anivia's Ultimate cooldown?
-6 sec
-There is none
-1 sec
-13 sec
-Difficulty:8
-
-8
-Irelia is the will of the ...
-Blades
-Balance
-Energy
-Daggers
-Difficulty:1
-
-9
-Which company has never been a sponsor of LOLEsports?
-Lays
-Mastercard
-Statefarm
-Kia
+Physical addresses...
+are addresses seen by the memory unit
+are assigned by the CPU
+are also known as logical addresses
+differ in compile-time address-binding schemes with virtual addresses
 Difficulty:7
 
+3
+In the context of process swapping, what is the process of transferring I/O to kernel space, then to the I/O device known as?
+Double buffering
+Standard swapping
+Device swapping
+Binary reinsertion
+Difficulty:9
+
+4
+Memory fragmentation occurs when...
+allocated memory is larger than requested
+there is not enough available memory as requested
+there is memory corruption 
+memory is continuously aligned in the system
+Difficulty:6
+
+5
+When an entry in a segment table's validation bit is ..., the segment is illegal.
+=0
+=1
+=-1
+<0
+Difficulty:8
+
+6
+Physical memory is further split into blocks called...
+frames
+pages
+tables
+views
+Difficulty:3
+
+7
+Which is not an advanced style of pagination of physical memory?
+Index maximization paging
+Hierarchical paging
+Hashed page tables
+Inverted page tables
+Difficulty:4
+
+8
+The page address extension (PAE) by Intel moved paging to a scheme of how many levels?
+3
+4
+5
+6
+Difficulty:10
+
+9
+Which C command will allocate an array of uninitialized memory?
+malloc()
+free()
+atoi()
+sprintf()
+Difficulty:1
+
 10
-What does Caitlyn use to bait her traps?
-Cupcakes
-Crumpets
-Cherries
-Tea
-Difficulty:5
+Memory allocated by the user in C will...
+be assigned on the heap
+be assigned on the stack
+not persist outside of its declaration's scope
+be garbage collected automatically by the compiler
+Difficulty:2

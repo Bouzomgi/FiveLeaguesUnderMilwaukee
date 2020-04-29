@@ -1,80 +1,80 @@
 
 1
-What is the name of Sona's instrument?
-Etwahl
-Ester
-Ether
-Ethereal
-Difficulty:5
+CPU scheduling decisions are not made when processes switch from...
+waiting to running state
+running to waiting state
+running to ready state
+waiting to ready state
+Difficulty:6
 
 2
-What is the name of the currency Gangplank collects to upgrade his ultimate?
-Silver Serpents
-Doubloons
-Golden Titan coins
-Ancient artifacts
-Difficulty:3
-
-3
-Which item grants the highest attack speed?
-Nashor's Tooth
-Phantom Dancer
-Statikk Shiv
-Runaan's Hurricane
-Difficulty:9
-
-4
-Which team won the 2015 World Championship?
-KOO Tigers
-TPA
-SKT Telecom 1
-Fnatic
-Difficulty:10
-
-5
-Which of these items does not deal magic damage?
-Essence Reaver
-Trinity Force
-Nashor's Tooth
-Hextech Gunblade
+Which is not a process scheduling criteria?
+Length of scheduling queue
+CPU utilization
+Throughput
+Waiting time
 Difficulty:2
 
-6
-Who has the quote, "No, really. Put that apple on your head!"
-Ashe
-Lissandra
-Kindred
-Varus 
-Difficulty:4
-
-7
-How much damage does Sheen's passive do?
-100% Base AD
-100% Base AP
-200% Base AD
-200% Base AP
-Difficulty:8
-
-8
-Which is an actual skin?
-Hextech Annie
-Robot Annie
-Mechanic Annie
-Steampunk Annie
+3
+The process scheduler should select processes in part to help satisfy which criteria?
+Minimum turnaround time
+Minimum CPU utilization
+Maximum waiting time
+Minimum response time
 Difficulty:1
 
+4
+The Convoy Effect is most commonly seen using which scheduling procedure?
+FCFS
+SJF
+Priority Scheduling
+Round Robin
+Difficulty:5
+
+5
+The term starvation in process scheduling refers to ... processes never getting the chance to execute
+low priority
+lengthy 
+late arriving
+short
+Difficulty:4
+
+6
+In a multilevel queue, which type of processes have the highest priority in scheduling?
+System
+Interactive
+Batch
+Student
+Difficulty:8
+
+7
+Which Windows priority class has the highest relative priority?
+TIME_CRITICAL
+HIGHEST
+NORMAL
+IDLE
+Difficulty:3
+
+8
+With regards to the Round Robin scheduling algorithm, which statement is true? 
+Time quantum should be smaller than the context switch speed.
+At large time quantums, RR acts like FIFO
+Each process gets a small amount of CPU time
+After the time quantum has expired, the process is removed from the queue
+Difficulty:10
+
 9
-How much mana does Manamune require to transform into Muramana?
-750
-825
-900
-1000
+Which thread-scheduling scheme is used by the kernel?
+System-contention scope
+Process-contention scope
+Code-contention scope
+Central-contention scope
 Difficulty:7
 
 10
-Which of these items cannot be upgraded by Ornn?
-Void Staff
-Trinity Force
-Redemption
-The Black Cleaver
-Difficulty:6
+Which is not an issue with guests scheduling processes via virtualization software?
+Guests hoarding physical storage from the kernel
+Guests being unaware that they do not own the CPU
+Guests may respond slowly
+Guests may influence time-of-day clocks in other guests
+Difficulty:9

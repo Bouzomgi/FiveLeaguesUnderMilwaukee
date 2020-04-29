@@ -1,80 +1,80 @@
 
 1
-What was the max level your summoner could become?
-20
-18
-16
-15
+The acronym UI stands for…
+User Interface
+Unused Item
+Useful Iterator
+Upon Indexed
 Difficulty:1
 
 2
-Which item was used primarily on AP burst champions?
-Deathfire Grasp
-Spirit's Resonance
-Undead Scepter
-Death's Hand
+Operating-system services should provide file-system manipulative functions that allow all but…
+sending files through HTTP forms
+creating files
+reading files
+listing files information
 Difficulty:2
 
 3
-What's the name of Jinx's passive?
-Get Excited!
-Hyper Happy!
-Time to have some Fun!
-Rev'd Up!
+Which is not a resource that must be allocated through the operating system?
+Power
+CPU cycles
+I/O devices
+Main memory
 Difficulty:4
 
 4
-Who was Gangplank's first love?
-Illaoi
-Miss Fortune
-A mermaid
-A pirate
-Difficulty:9
-
-5
-What is the name of Katarina's Ultimate?
-Death Lotus
-Flurry of Daggers
-Whirling Death
-Death by 100 Daggers
+To print a variable to the console, one should use the Linux bash command…
+$echo
+$man
+$touch
+$print
 Difficulty:3
 
-6
-How much does Rabadon's Deathcap cost?
-3800g
-3650g
-3700g
-4100g
-Difficulty:6
-
-7
-How many ultimate skins are there?
-4
-3
 5
-6
+Which of the following is not a command interpreter?
+sierra
+bash
+fish
+zsh
 Difficulty:5
 
+6
+Which are background services not also known as?
+Striations
+Services
+Subsystems
+Daemons
+Difficulty:10
+
+7
+Emulation is the process in which people allow … to run on …
+OS, non-native hardware
+I/O, single board computers
+software, uninitialized memory
+code, any computer regardless of prior installation
+Difficulty:6
+
 8
-How many forms does Elementalist Lux have?
-10
-9
-8
-12
+Which OS is paired with an incorrect structuring descriptor?
+Layered -> Redundant
+MS-DOS: Simple
+UNIX -> Complex
+Mach -> Microkernal
 Difficulty:7
 
 9
-What year was League released to the public?
-2009
-2007
-2004
-2008
-Difficulty:8
+Mac OS uses which kind of kernel environment?
+Mach
+MS-DOS
+UNIX
+Layered
+Difficulty:9
 
 10
-Which PROJECT skins together are the most expensive?
-PROJECT Ashe, PROJECT Master Yi, PROJECT Vayne
-PROJECT Vayne, PROJECT Ashe, PROJECT Jhin
-PROJECT Jhin, PROJECT Zed, PROJECT Master Yi
-PROJECT Leona, PROJECT Vi, PROJECT Zed
-Difficulty:10
+To show the Linux hardware CPU, memory, disk, and more, one should use the Linux bash command…
+$lshw
+$nproc
+$ps
+$grep
+Difficulty:8

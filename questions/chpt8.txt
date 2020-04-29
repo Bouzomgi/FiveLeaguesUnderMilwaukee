@@ -1,80 +1,80 @@
 
 1
-Who were the first two new champions introduced to League after the initial batch of 17?
-Twitch and Amumu
-Singed and Zilean
-Anivia and Taric
-Warwick and Soraka
-Difficulty:9
-
-2
-Who is Amumu's only friend?
-Annie
-Poppy
-Karthus
-Teemo
-Difficulty:5
-
-3
-Which of these champions is not from Shurima?
-Cassiopeia
-Sivir
-Rammus
-Skarner
+Which statement about virtual memory is false?
+It requires the entire program to be in memory for execution
+It helps programs run concurrently
+It allows address spaces to be shared between processes
+It requires less I/O to swap processes
 Difficulty:4
 
-4
-What is the name of Ekko's Ultimate?
-Chronobreak
-Chronoshift
-Parallel Convergence
-Rewind
-Difficulty:3
-
-5
-Brand was named so because his name means fire in which language?
-Swedish
-Russian
-Swahili
-Italian
-Difficulty:8
-
-6
-Which was the first skin to receive a new voice over?
-Gentleman Cho'Gath
-iBlitzcrank
-DJ Sona
-Mecha Zero Sion
-Difficulty:1
-
-7
-Who created Blitzcrank?
-Viktor
-Heimerdinger
-Jayce
-Ezreal's Uncle, Lyte
+2
+The stack usually starts at ... memory address space.
+the maximum
+the minimum
+a large
+a small
 Difficulty:2
 
-8
-What is Kog Maw's Q called?
-Caustic Splittle
-Void Ooze
-Corrosive Spit
-Acidic Spit
+3
+What does the vfork() function in C do?
+It creates a child process and blocks the parent process
+It replaces the current process image with a new process image
+It terminates the inputted process
+It creates a child process and immediately terminates the parent process
+Difficulty:3
+
+4
+The benefits of demand paging do not include the fact that...
+there is less storage needed
+there is less I/O needed
+there is less memory needed
+it grants a faster response
+Difficulty:1
+
+5
+An algorithm that never swaps a page into memory unless it is absolutely required is called a what?
+Lazy swapper
+Defaulted system
+Memory fetcher
+Request-sensitive pager
+Difficulty:9
+
+6
+A page fault occurs...
+during the first reference to a page
+when the page is not in storage
+when the HTTP response returns a 404
+when there are no free frames available
+Difficulty:5
+
+7
+What is the process by, when using, allows both parent and child processes to initially share the same pages in memory?
+Copy-on-Write
+Fork
+Inheritance referencing
+Pooling
 Difficulty:7
 
-9
-What is Gangplank's passive called?
-Trial by Fire
-Grog-Soaked Blade
-Scorched Cutlass
-Burn 'em with Fire
+8
+Dirty bits reduce overhead by allowing only ... pages to be written to the disk.
+modified
+corrupted
+interupted
+under-allocated
 Difficulty:6
 
+9
+Thrashing occurs when...
+a process is busy swapping pages in and out
+there is over-allocation of memory
+the same page is brought into memory several times
+a page is not zeroed-out before allocating it
+Difficulty:8
+
 10
-Who is Taliyah's mentor?
-Yasuo
-Malphite
-Udyr
-Quinn
+A slab is...
+one or more physically contiguous pages
+any object marked as free
+a page that is locked into memory
+a clustering technique in the Windows OS system
 Difficulty:10

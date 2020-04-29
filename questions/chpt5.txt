@@ -1,80 +1,80 @@
 
 1
-Which drake slows enemy movement?
-Ocean
-Infernal
-Cloud
-Mountain
+OS concurrency's least important trait is... 
+single-thread throughput
+communication among processes
+sharing resources
+synchronizing activities of multiple processes
 Difficulty:4
 
 2
-Who was the shopkeeper in Twisted Treeline? (RIP)
-A pumpkin
-A ghost
-An old man
-A chipmunk
-Difficulty:10
+Which resource does the OS not have to allocate for all of its processes?
+A network address
+Memory
+I/O devices
+Process time
+Difficulty:1
 
 3
-Which creature can be seen outside of the Summoner's Rift map?
-Dragon
-Wolf
-Sentinels
-Flock of Birds
-Difficulty:8
+Which of the following is not an essential control problem?
+Process count
+Mutual exclusion
+Deadlocks
+Starvation
+Difficulty:6
 
 4
-What is Taric's title?
-The Gem Knight
-The Crystal Gem
-The Ruby Warrior
-The Paragon of Righteousness
-Difficulty:2
-
-5
-What is the food used to feed Poros?
-Poro Snax
-Poro Biscuits
-Poro Pies
-Poro Treatz
-Difficulty:3
-
-6
-Which of these is not a Poro?
-Surprise Party Poro
-Astronaut Poro
-Battlecast Poro
-Dragonslayer Poro
+In which code snippet is data coherence relevant?
+a = b;
+a = a + 1;
+a = a;
+b = 'hello' + 1;
 Difficulty:7
 
+5
+Critical sections may be accessed by ... at a time
+one process
+multiple processes
+any number of processes with specific permission
+zero processes
+Difficulty:2
+
+6
+Special variables used to describe signals sent to processes are called...
+semaphores
+dijstras
+SIGs
+verdads
+Difficulty:8
+
 7
-Which of these skin lines does not exist?
-Ancient Terror
-Blackthorn
-Full Metal
-Medieval
+Test and Set Locks help solve what kind of problems?
+Synchronization
+Asynchronization
+Serial process scheduling
+CPU restriction
 Difficulty:5
 
 8
-Which of these champions has an Elderwood skin?
-Nocturne
-Ivern
-Neeko
-Ahri
-Difficulty:6
+Concurrency is not applicable in which of the following contexts?
+Serial computations
+Multiple applications
+Structured applications
+OS structures
+Difficulty:4
 
 9
-Who says "As Balance Dictates"?
-Akali
-Shen
-Zilean
-Kassidan
-Difficulty:1
+Which is not allowing in mutual exclusion (ME)?
+Processes trying to enter the critical section may be delayed infinitely
+Any process can enter an empty critical section
+Processes must remain in the critical section for a limited time
+Assumptions cannot be made about number of processors
+Difficulty:9
 
 10
-Which of these items were never in the game?
-Eye of the Mountain
-Eye of the Equinox
-Eye of the Watchers
-Eye of the Oasis
-Difficulty:9
+To determine which process should enter the critical section, Decker's Algorithm checks the ... of both processes?
+states
+resource usages
+queue entrance timestamps
+process ids
+Difficulty:10
