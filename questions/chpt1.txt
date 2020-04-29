@@ -1,0 +1,80 @@
+
+1
+What is the main map in the game called?
+Summoner's Rift
+Howling Abyss
+Twisted Treeline (RIP)
+Crystal Scar
+Difficulty:1
+
+2
+What wave do cannon minions spawn?
+Every third wave
+Every second wave
+Every fourth wave
+Every fifth wave
+Difficulty:4
+
+3
+What mob used to give poison armor?
+Gromp
+Rift Scuttler
+Great Wolf
+Stone Golems
+Difficulty:5
+
+4
+What minute does Baron Nashor arrive?
+20:00
+15:00
+17:30
+25:00
+Difficulty:3
+
+5
+What minute does Dragon arrive?
+2:00
+At the beginning of the match
+3:00
+5:00
+Difficulty:6
+
+6
+What is the max percentage damage dealt from multiple consecutive hits from a turret?
+200%
+250%
+300%
+275%
+Difficulty:8
+
+7
+What is the name of Sejuani's boar?
+Bristle
+Drike
+Icebone
+Britney
+Difficulty:7
+
+8
+In newer patches, in the Howling Abyss, what's the time mark where you're able to surrender?
+15:00
+17:00
+20:00
+10:00
+Difficulty:9
+
+9
+How much gold is Infinity Edge?
+3800g
+3400g
+3600g
+3200g
+Difficulty:10
+
+10
+What is the max level, in game, that you can become?
+18
+5
+20
+16
+Difficulty:2

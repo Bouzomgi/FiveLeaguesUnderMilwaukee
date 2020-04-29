@@ -1,0 +1,80 @@
+
+1
+What was the max level your summoner could become?
+20
+18
+16
+15
+Difficulty:1
+
+2
+Which item was used primarily on AP burst champions?
+Deathfire Grasp
+Spirit's Resonance
+Undead Scepter
+Death's Hand
+Difficulty:2
+
+3
+What's the name of Jinx's passive?
+Get Excited!
+Hyper Happy!
+Time to have some Fun!
+Rev'd Up!
+Difficulty:4
+
+4
+Who was Gangplank's first love?
+Illaoi
+Miss Fortune
+A mermaid
+A pirate
+Difficulty:9
+
+5
+What is the name of Katarina's Ultimate?
+Death Lotus
+Flurry of Daggers
+Whirling Death
+Death by 100 Daggers
+Difficulty:3
+
+6
+How much does Rabadon's Deathcap cost?
+3800g
+3650g
+3700g
+4100g
+Difficulty:6
+
+7
+How many ultimate skins are there?
+4
+3
+5
+6
+Difficulty:5
+
+8
+How many forms does Elementalist Lux have?
+10
+9
+8
+12
+Difficulty:7
+
+9
+What year was League released to the public?
+2009
+2007
+2004
+2008
+Difficulty:8
+
+10
+Which PROJECT skins together are the most expensive?
+PROJECT Ashe, PROJECT Master Yi, PROJECT Vayne
+PROJECT Vayne, PROJECT Ashe, PROJECT Jhin
+PROJECT Jhin, PROJECT Zed, PROJECT Master Yi
+PROJECT Leona, PROJECT Vi, PROJECT Zed
+Difficulty:10
