@@ -729,7 +729,7 @@ int main() {
 	system("clear");
 
 
-	skip = taitle();
+	skip = title();
     time(&start); //starts our timer
 
 	if (!skip) {
