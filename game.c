@@ -457,7 +457,7 @@ void tutorialShop(Character *player, ItemLL *masterItemList[4]) {
 }
 
 
-//Propt displayed for inventory check
+//Prompt displayed for inventory check
 int inventoryPrompt(Character *player) {
 	if (player->itemsOwned[0] == NULL) {
 		sprintf(dialogue, "You don't have anything. Purchase items from Salbert's shop\n");
@@ -479,7 +479,7 @@ int inventoryPrompt(Character *player) {
 	return 1;
 }
 
-//pPrompt displayed for equiping an item.
+//Prompt displayed for equiping an item.
 void inventory(Character *player) {
 	char userInput[64];
 	int hasItems, decision;
