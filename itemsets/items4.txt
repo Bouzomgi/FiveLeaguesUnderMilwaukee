@@ -27,7 +27,7 @@ Dodge:0
 Type:H
 
 Warlord Cap
-It's green and it the same cap that every African warlord wears in the movies.
+It's green and it's the same cap that every African warlord wears in the movies.
 MaxHealth:20
 Attack:5
 Defense:2
