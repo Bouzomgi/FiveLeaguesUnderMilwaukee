@@ -27,7 +27,7 @@ Dodge:0
 Type:H
 
 Trucker Hat
-Its a net hat. Its got air-holes in the back to keep a cross breeze going and everything!
+It's a net hat. Its got air-holes in the back to keep a cross breeze going and everything!
 MaxHealth:10
 Attack:0
 Defense:1
