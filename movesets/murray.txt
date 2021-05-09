@@ -18,7 +18,7 @@ Stat Raise:A
 Times:2
 
 Stampede of Filth
-Lowlife Murray pauses to tie his shoes real quick..... and charges headfirst at you with  his greasy hair. Feels nasty.
+Lowlife Murray pauses to tie his shoes real quick..... and charges headfirst at you with his greasy hair. Feels nasty.
 Move Power:20
 Stat Raise:X
 Times: 1
