@@ -6,7 +6,7 @@ Stat Raise:X
 Times:2
 
 Mechanical slam
-Mike grabs you with his meaty hands and throws you to the ground. He makes a 'kachow!' Sound effect as if he hit you with his car.
+Mike grabs you with his meaty hands and throws you to the ground. He makes a 'kachow!' sound effect as if he hit you with his car.
 Move Power:30
 Stat Raise:X
 Times:2
